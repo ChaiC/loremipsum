@@ -1,3 +1,8 @@
+Here is the link to the page: http://p3-chaitanyaswork.rhcloud.com/random
+
+The page contains the application which generates random paragraphs for the user. The input is accepted via a form.
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
